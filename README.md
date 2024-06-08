@@ -18,7 +18,9 @@ To clone and run this project on your local machine, follow these steps:
    cd Java-Linked-List
 
 2. **Compile the java files:**
+   ```sh
    javac *.java
 
-3. **Run the Main class:**
+4. **Run the Main class:**
+   ```sh
    java Main
