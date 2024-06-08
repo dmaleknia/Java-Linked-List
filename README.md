@@ -1,5 +1,3 @@
-<iframe src="https://giphy.com/embed/paJxYeJGmlnos" width="480" height="319" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/90s-waldo-wheres-paJxYeJGmlnos">via GIPHY</a></p>
-
 ## Introduction 🎉
 
 This project implements a simple linked list to manage a list of tourists. Each tourist has a name, passport number, and destination city. The linked list supports basic operations such as adding a new tourist, finding a tourist by name, and retrieving the total number of tourists.
