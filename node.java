@@ -1,7 +1,7 @@
 // Node class definition
 public class Node {
     // Data stored in the node
-    private int data;
+    private Tourist data;
     // Reference to the next node in the list
     private Node next;
 
