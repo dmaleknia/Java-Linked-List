@@ -1,4 +1,4 @@
-// Tourist class extends Node to represent a tourist with name, passport number, and destination city
+// Tourist class definition
 public class Tourist {
     // Name of the tourist
     private String name;
