@@ -21,7 +21,7 @@ To clone and run this project on your local machine, follow these steps:
    ```sh
    javac *.java
 
-4. **Run the Main class:**
+3. **Run the Main class:**
    ```sh
    java Main
 

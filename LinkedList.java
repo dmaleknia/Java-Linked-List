@@ -1,7 +1,7 @@
 public class LinkedList {
 
     // Node class definition
-    public static class Node {
+    private static class Node {
         // Data stored in the node
         private Tourist data;
         // Reference to the next node in the list
